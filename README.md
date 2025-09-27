@@ -25,10 +25,11 @@
 
 ## 📊 Estadísticas de GitHub
 ![Cristian's GitHub stats](https://github-readme-stats.vercel.app/api?username=cristianpglz&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristianpglz&layout=compact&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristianpglz&layout=compact&theme=tokyonight&hide=c)
 
 ---
 
 📌 **Portafolio**: [moonlit-dolphin-115a7a.netlify.app](https://moonlit-dolphin-115a7a.netlify.app/)  
 💼 **LinkedIn**: [linkedin.com/in/cristian-pereiro-gonzalez](https://www.linkedin.com/in/cristian-pereiro-gonzalez-19306b168/)  
-## Hi there 👋
+📧 **Email**: cristianpglez0@gmail.com
